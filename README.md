@@ -1,4 +1,4 @@
-# learnning-cloud-functions
+# Learning-cloud-functions
 Learning Cloud Functions using Google Cloud using Flask to list all DNS records in a Google Cloud Project
 
 ## Prerequisites
